@@ -17,7 +17,7 @@
 - Females outperformed in Reading and Writing; males slightly higher in Math.
 
 ## Data source
-Original dataset: [link to dataset source]
+Original dataset: (https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
 ## License
 MIT
